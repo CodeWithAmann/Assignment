@@ -1,0 +1,23 @@
+1.Ans:-
+A computer is a programmable machine that can execute a set of instructions to perform various tasks. It consists of hardware components like a CPU, memory, storage devices, input/output devices, and software that controls and coordinates these components to perform specific functions.
+
+2.Ans:-
+RAM stands for Random Access Memory. It's a type of computer memory that is used to store data and machine code currently being used or processed by the CPU. Unlike storage devices such as hard drives or SSDs, RAM is volatile, meaning its contents are lost when the computer is powered off. RAM provides fast access to data, allowing the CPU to read and write data quickly.
+
+3.Ans:-
+Storage in a computer typically refers to non-volatile memory where data can be stored even when the computer is turned off. This includes hard disk drives (HDDs), solid-state drives (SSDs), optical drives (such as CDs and DVDs), and other storage media. It's used for long-term storage of data, programs, and operating systems.
+
+4.Ans:-
+The input device used to type text and numbers into a document on a computer system is typically a keyboard. Keyboards allow users to input alphanumeric characters, numbers, and special symbols into the computer for various purposes, including word processing, data entry, and programming.
+
+5.Ans:-
+Output devices are hardware components that display or present information processed by the computer system to the user. Common output devices include monitors (or screens), printers, speakers, and projectors. They allow users to view, hear, or otherwise perceive the results of computations or operations performed by the computer.
+
+6.Ans:-
+The input device that allows a user to move the cursor or pointer on the screen is typically a mouse or a touchpad. These devices detect the movement of the user's hand or fingers and translate it into corresponding movements of the cursor or pointer on the computer screen.
+
+7.Ans:-
+Machine language is directly understood by the computer without the need for translation. It consists of binary code (0s and 1s) that represents instructions and data that the CPU can execute directly.
+
+8.Ans:-
+Input devices are hardware components that allow users to provide data, commands, or signals to a computer system. Examples include keyboards, mice, touchscreens, scanners, microphones, and joysticks. They enable users to interact with and control the computer system.
